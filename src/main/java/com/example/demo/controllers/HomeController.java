@@ -17,7 +17,6 @@ public class HomeController {
 	public String class1()
 	{
 		return "I'm CSE class";
-		
 	}
 	
 }
